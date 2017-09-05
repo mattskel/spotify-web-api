@@ -7,7 +7,7 @@ var spotifyApi = new SpotifyWebApi({
   redirectUri : 'http://localhost:8888/callback'
 });
 
-spotifyApi.setAccessToken('BQCCzHaX5KFMFvPjZ-PEa6DHlmLMb7u0UxI068MPln7HRG4WmJPnWO_udFDn0rYFr1GzIWdsa4XsVTKFSaAZn8ozPKYDo-NArWuL_GaWZXPyI_5_hvm8xCMhaK8ld9NK2QvVaTavQY-oQF0BZhy1aqLwHf8GC4U86FRbNajwuyA2UC-y-0P-Tm8UpoA3Lubp0k9qmNHU4KVzzZUo8egh1FueU3sq_C8F7nAM-1Qn___J8ryr6pD4LJis_3G0kNZHPZuqy2R5BJ8uQTXl');
+spotifyApi.setAccessToken('BQCLSyxZBfX7ZIhNxbQmdsXnWNjvgY1iL_OHQS8ZGqHhz_64dQKayP6QfMqta5SSRgkEq76Y5ErjKAVLdqw9e1NYb0MNN_XirzoZBeUv67I3bMIz7U3oIX3vphqr-IQBMAPVEHKnIu7yN3bzzgPFseCyk7YnVssT-1qWYI3WUhj1RkVHZL01XtbA0c54JkR812KOHUXjcsi664MVUT2mMOYzBjCNuGKGLzkPrWI2bAcf3m9X5C2N1Faz1qGVmDkoyMK_9vPSK9foNKEB');
 
 var myData;
 
